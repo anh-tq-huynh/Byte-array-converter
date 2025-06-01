@@ -11,6 +11,7 @@ This byte array format is required for displaying designs on the OLED connected 
 
 ## Application
 This code was used to convert the following animation into into byte array that can be displayed on Raspberry Pi Pico OLED. 
+
 ![Hearltly](https://github.com/user-attachments/assets/a66739c5-00e6-4d39-9916-9f2b5ce3d6d8)
 
 __ Original animation __
